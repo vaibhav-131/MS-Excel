@@ -12,3 +12,6 @@ The following project is based on Business Analysis for a pharmaceutical company
 9. Pivot table with timeline (sales by value & qty)
 10. Categories the products into high value & high-volume products. Then create a 4-quadrant chart for both value & volume (bubble chart )
 The tool used for the analysis Ms-Excel. The project uses a variety of excel functions and formulas for data cleaning, sorting, arranging and for final analysis. Finally, by using chart, visualization in forms of charts has been created and presented in the PowerPoint.  The details of individual analysis can be found with charts itself; the attached Excel file contains all the formulas and analysis in the Analysis Sheet. 
+![image](https://user-images.githubusercontent.com/85214525/182437383-16518e7b-9b60-4082-a7f3-725b6caebe2e.png)
+![image](https://user-images.githubusercontent.com/85214525/182437411-55853163-1ece-4aa1-9897-5d074d42ef83.png)
+![image](https://user-images.githubusercontent.com/85214525/182437433-794df4ad-7f45-4f96-aeb4-d19cdb498aea.png)
